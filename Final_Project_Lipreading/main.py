@@ -310,10 +310,3 @@ finally:
     cv2.destroyAllWindows()
     GPIO.cleanup() # 釋放腳位
 
-# todo task
-# (1) 自動轉成.mpg
-# (2) 丟入modle inference 
-# (3) output 比對
-# (4) correct or back to the top
-
-
